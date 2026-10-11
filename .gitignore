@@ -1,0 +1,5 @@
+node_modules/
+.remotion/
+.bundle/
+out/
+.DS_Store

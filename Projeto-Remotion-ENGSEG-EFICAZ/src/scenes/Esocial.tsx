@@ -1,0 +1,9 @@
+import React from 'react';
+import {useCurrentFrame} from 'remotion';
+import {Frame,Header,Title,Reveal,Label,Grid,Footer,Rule,move,Arrow} from '../design';
+export const Esocial=()=>{const f=useCurrentFrame();return <Frame brand="engseg"><Grid brand="engseg"/><Header brand="engseg" section="01 / GESTÃO"/>
+<div style={{position:'absolute',left:88,top:340}}><Reveal><Title size={145}>GESTÃO DE</Title></Reveal><Reveal delay={5}><Title size={213} color="#21E66A">eSocial</Title></Reveal></div>
+<svg width="1080" height="1920" style={{position:'absolute'}}><path d="M0 1120H144V715H873V1320H1080" fill="none" stroke="#21E66A" strokeWidth="5" pathLength="1" strokeDasharray="1" strokeDashoffset={1-move(f,8,45)}/></svg>
+{[2,1,0].map((i)=><div key={i} style={{position:'absolute',left:225+i*23,top:720+i*26,width:650,height:500,background:i===0?'#EFF7EA':i===1?'#174D32':'#102F22',border:'1px solid #82CCA540',rotate:`${-5+i*5+(1-move(f,5+i*3,26+i*3))*10}deg`,translate:`${(1-move(f,5+i*3,26+i*3))*300}px 0`,boxShadow:i===0?'0 32px 80px #0005':undefined,padding:55}}>{i===0&&<><Label color="#135B38" style={{fontSize:21,letterSpacing:3}}>INFORMAÇÃO ORGANIZADA</Label><div style={{height:5,background:'#11542E',marginTop:26,marginBottom:34,width:'100%'}}/>{[100,84,92,67].map((n,j)=><div key={j} style={{display:'flex',gap:23,alignItems:'center',marginBottom:29,opacity:move(f,16+j*5,26+j*5)}}><div style={{width:23,height:23,border:'2px solid #126936',background:j<2?'#21E66A':'transparent'}}/><div style={{height:11,width:`${n*.78}%`,background:j===0?'#214B32':'#BDCFBA'}}/></div>)}<div style={{position:'absolute',bottom:42,right:50}}><Arrow color="#0B532A" size={52}/></div></>}</div>)}
+<Reveal delay={18} style={{position:'absolute',left:88,top:1370}}><Title size={66}>PROCESSOS MAIS ORGANIZADOS.</Title></Reveal><Rule brand="engseg" y={1516} delay={25}/><Footer brand="engseg" text="Informação • Gestão • Responsabilidade"/>
+</Frame>};
