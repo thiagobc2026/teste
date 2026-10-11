@@ -1,18 +1,20 @@
-# ENGSEG + EFICAZ — Motions
+# ENGSEG + EFICAZ — Motions V2
 
-Dois vídeos corporativos completos, produzidos em Remotion: **24 segundos cada, 1080 × 1920, 30 fps, MP4 com áudio estéreo**. Incluem tipografia animada, transições, trilhas instrumentais e efeitos sonoros.
+A segunda versão refaz os dois vídeos com tipografia por letra, símbolos e documentos com profundidade, recortes de imagem, transições conectadas e efeitos sonoros sincronizados às ações.
 
-## Baixar os arquivos
+**24 segundos por vídeo · 1080 × 1920 · 30 fps · MP4 com áudio estéreo**
+
+## Baixar a nova versão
 
 | Entrega | Download |
 | --- | --- |
-| Vídeo ENGSEG | [Baixar MP4](https://github.com/thiagobc2026/teste/raw/refs/heads/main/entregas/ENGSEG-Motion.mp4) |
-| Vídeo EFICAZ | [Baixar MP4](https://github.com/thiagobc2026/teste/raw/refs/heads/main/entregas/EFICAZ-Motion.mp4) |
-| Projeto Remotion completo | [Baixar ZIP editável](https://github.com/thiagobc2026/teste/raw/refs/heads/main/entregas/Projeto-Remotion-ENGSEG-EFICAZ.zip) |
+| ENGSEG — V2 | [Baixar MP4](https://github.com/thiagobc2026/teste/raw/refs/heads/main/entregas/ENGSEG-Motion-V2.mp4) |
+| EFICAZ — V2 | [Baixar MP4](https://github.com/thiagobc2026/teste/raw/refs/heads/main/entregas/EFICAZ-Motion-V2.mp4) |
+| Projeto Remotion V2 | [Baixar ZIP editável](https://github.com/thiagobc2026/teste/raw/refs/heads/main/entregas/Projeto-Remotion-ENGSEG-EFICAZ-V2.zip) |
 
-O ZIP inclui código-fonte, cenas, imagens, fontes, trilhas e efeitos. Não é necessário executar o projeto para assistir aos MP4s.
+O ZIP inclui código, cenas, imagens, fontes, trilhas e efeitos. Os MP4s podem ser reproduzidos sem instalar o Remotion.
 
-## Abrir o projeto
+## Abrir e editar
 
 Requisitos: Node.js 22 ou superior.
 
@@ -23,12 +25,16 @@ npm ci
 npm run studio
 ```
 
-No Remotion Studio, selecione `ENGSEG-Motion` ou `EFICAZ-Motion`. Consulte o [README do projeto](Projeto-Remotion-ENGSEG-EFICAZ/README.md) para exportação e edição.
+Selecione `ENGSEG-Motion` ou `EFICAZ-Motion` no Studio. As cenas atuais estão em `src/v2/`. A pasta `Versao-1` no Studio mantém os filmes anteriores. Consulte o [README do projeto](Projeto-Remotion-ENGSEG-EFICAZ/README.md) para detalhes.
 
-As fotografias são ilustrativas, geradas para o projeto, e não representam os funcionários ou as instalações reais das empresas. Cores, serviços e contatos foram baseados nas referências fornecidas.
-
-## Prévias
+## Prévias da V2
 
 | ENGSEG | EFICAZ |
 | --- | --- |
-| ![ENGSEG](entregas/ENGSEG-Capa.png) | ![EFICAZ](entregas/EFICAZ-Capa.png) |
+| [![ENGSEG V2](entregas/ENGSEG-Capa-V2.png)](https://github.com/thiagobc2026/teste/raw/refs/heads/main/entregas/ENGSEG-Motion-V2.mp4) | [![EFICAZ V2](entregas/EFICAZ-Capa-V2.png)](https://github.com/thiagobc2026/teste/raw/refs/heads/main/entregas/EFICAZ-Motion-V2.mp4) |
+
+As fotografias são ilustrativas e foram geradas para os vídeos. Elas não representam funcionários ou instalações reais das empresas. Serviços e contatos foram baseados nas referências fornecidas.
+
+## Primeira versão
+
+Para comparação: [ENGSEG V1](entregas/ENGSEG-Motion.mp4), [EFICAZ V1](entregas/EFICAZ-Motion.mp4) e [projeto V1](entregas/Projeto-Remotion-ENGSEG-EFICAZ.zip).
