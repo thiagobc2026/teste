@@ -1,13 +1,10 @@
-BELCAM STUDIO — COLEÇÃO PARA FEED — 18 ARTES
+BELCAM STUDIO — 21 POSTS
 
-01–09: peças anteriores refinadas.
-10–18: novos posts na mesma identidade visual.
+Novos posts: 19, 20 e 21.
 
-Arquivos PNG, 1122 × 1402 pixels, RGB, formato vertical próximo de 4:5. A resolução original de geração foi preservada.
+PNG, RGB, 1122 × 1402 pixels. A resolução original de geração foi preservada.
 
-As peças mantêm tipografia condensada, cores da marca e efeitos de luz integrados aos títulos. Os rodapés foram limpos e o acabamento dos materiais e reflexos foi refinado.
+Abra index.html para visualizar a coleção localmente.
+As 18 peças anteriores foram mantidas.
 
-Abra index.html no navegador para visualizar a coleção completa.
-legendas-e-roteiros.txt contém 18 legendas sugeridas e três roteiros curtos.
-
-Esta entrega contém imagens estáticas. A numeração identifica as peças e não determina uma data de publicação.
+Os três motions em MP4 e o projeto editável estão na pasta entregas/belcam-studio-stories do GitHub.

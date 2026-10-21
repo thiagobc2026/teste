@@ -1,14 +1,18 @@
-# Belcam Studio — Coleção para feed
+# Belcam Studio — Coleção de 21 posts
 
-**18 artes: nove refinadas e nove novos posts.**
+**Os novos posts são os números 19, 20 e 21.**
 
-**[Baixar a coleção completa em ZIP](Belcam-Studio-Feed.zip?raw=true)**
+[Baixar os três novos posts](Belcam-Studio-3-Novos-Posts.zip?raw=true) · [Baixar a coleção de 21 posts](Belcam-Studio-Feed.zip?raw=true) · [Ver os três vídeos para Stories](../belcam-studio-stories/README.md)
 
-As artes 01–09 receberam acabamento refinado e rodapés limpos. Os posts 10–18 trazem novos temas na mesma identidade visual. A coleção mantém a tipografia condensada e a integração de luz e textura aos títulos.
+PNG · 1122 × 1402 pixels · RGB · Formato vertical próximo de 4:5.
 
-PNGs individuais em 1122 × 1402 pixels. O ZIP inclui galeria HTML, 18 legendas e três sugestões de roteiro.
+## Últimos três posts · 19–21
 
-## Artes refinadas
+| | | |
+| :---: | :---: | :---: |
+| [![DÊ ASAS À SUA HISTÓRIA.](19-de-asas-a-sua-historia.png)](19-de-asas-a-sua-historia.png)<br>**19 · DÊ ASAS À SUA HISTÓRIA.** | [![PENSE ALÉM DA MOLDURA.](20-pense-alem-da-moldura.png)](20-pense-alem-da-moldura.png)<br>**20 · PENSE ALÉM DA MOLDURA.** | [![IDEIAS GANHAM VIDA.](21-ideias-ganham-vida.png)](21-ideias-ganham-vida.png)<br>**21 · IDEIAS GANHAM VIDA.** |
+
+## Coleção · 01–09
 
 | | | |
 | :---: | :---: | :---: |
@@ -16,7 +20,7 @@ PNGs individuais em 1122 × 1402 pixels. O ZIP inclui galeria HTML, 18 legendas 
 | [![ACENDA UMA IDEIA. DÊ PLAY.](04-acenda-uma-ideia.png)](04-acenda-uma-ideia.png)<br>**04 · ACENDA UMA IDEIA. DÊ PLAY.** | [![SUA MARCA GANHOU PERSONALIDADE.](05-sua-marca-com-personalidade.png)](05-sua-marca-com-personalidade.png)<br>**05 · SUA MARCA GANHOU PERSONALIDADE.** | [![MUDE O JEITO DE SER VISTO.](06-mude-o-jeito-de-ser-visto.png)](06-mude-o-jeito-de-ser-visto.png)<br>**06 · MUDE O JEITO DE SER VISTO.** |
 | [![CRIATIVIDADE EM OUTRA ÓRBITA.](07-criatividade-em-outra-orbita.png)](07-criatividade-em-outra-orbita.png)<br>**07 · CRIATIVIDADE EM OUTRA ÓRBITA.** | [![SUA VERBA MERECE UMA BOA IDEIA.](08-sua-verba-merece-uma-ideia.png)](08-sua-verba-merece-uma-ideia.png)<br>**08 · SUA VERBA MERECE UMA BOA IDEIA.** | [![SUA MARCA. EM MOVIMENTO.](09-sua-marca-em-movimento.png)](09-sua-marca-em-movimento.png)<br>**09 · SUA MARCA. EM MOVIMENTO.** |
 
-## Novos posts
+## Coleção · 10–18
 
 | | | |
 | :---: | :---: | :---: |
@@ -26,10 +30,8 @@ PNGs individuais em 1122 × 1402 pixels. O ZIP inclui galeria HTML, 18 legendas 
 
 ## Arquivos
 
-- `01` a `09`: peças anteriores refinadas.
-- `10` a `18`: novos posts.
-- `index.html`: galeria local. Baixe o ZIP, extraia e abra este arquivo no navegador.
-- [Legendas e roteiros](legendas-e-roteiros.txt): textos sugeridos para a coleção.
-- `LEIA-ME.txt`: informações dos arquivos.
+O ZIP completo inclui a galeria HTML e as legendas. Extraia os arquivos e abra `index.html` para visualizar a coleção localmente.
+
+[Legendas](legendas-e-roteiros.txt) · [Informações dos arquivos](LEIA-ME.txt)
 
 As versões anteriores permanecem no histórico do GitHub.
