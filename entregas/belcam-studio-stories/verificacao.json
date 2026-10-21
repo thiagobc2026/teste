@@ -1,0 +1,38 @@
+[
+  {
+    "file": "01-de-asas-a-sua-historia.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 360,
+    "seconds": 12,
+    "video": "H.264",
+    "audio": "AAC stereo",
+    "bytes": 8077587,
+    "sha256": "abeab39e0b585f422be22f581823953784db2917caae384580ea94d0db30b385"
+  },
+  {
+    "file": "02-pense-alem-da-moldura.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 360,
+    "seconds": 12,
+    "video": "H.264",
+    "audio": "AAC stereo",
+    "bytes": 6659689,
+    "sha256": "03d5e5c816450d1aca39a461220b143d7e7c0ee00d5dfdb04f1b71379dbbebc1"
+  },
+  {
+    "file": "03-ideias-ganham-vida.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 360,
+    "seconds": 12,
+    "video": "H.264",
+    "audio": "AAC stereo",
+    "bytes": 6353539,
+    "sha256": "239f740079b2847f2e0f46e6954f243bef37b81417c88162a2427efd46fd56ce"
+  }
+]

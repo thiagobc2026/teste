@@ -1,0 +1,13 @@
+BELCAM STUDIO — 3 STORIES EM MOTION
+
+1080 × 1920 pixels, 9:16, 12 segundos, 30 fps.
+Vídeo H.264, yuv420p; áudio AAC estéreo.
+
+01 — Dê asas à sua história.
+02 — Pense além da moldura.
+03 — Ideias ganham vida.
+
+Abra index.html para assistir ou abra os MP4s no seu reprodutor.
+Trilhas originais, sem locução. Os vídeos também funcionam sem áudio.
+
+O projeto Remotion editável é fornecido em ZIP separado na pasta do GitHub.

@@ -38,3 +38,12 @@ As fotografias são ilustrativas e foram geradas para os vídeos. Elas não repr
 ## Primeira versão
 
 Para comparação: [ENGSEG V1](entregas/ENGSEG-Motion.mp4), [EFICAZ V1](entregas/EFICAZ-Motion.mp4) e [projeto V1](entregas/Projeto-Remotion-ENGSEG-EFICAZ.zip).
+
+## Belcam Studio
+
+**21 posts para feed e 3 vídeos em motion para Stories.**
+
+- [Posts para feed — incluindo os novos 19, 20 e 21](entregas/belcam-studio-feed/README.md)
+- [Três Stories em MP4 e projeto editável](entregas/belcam-studio-stories/README.md)
+
+Stories em 1080 × 1920, com 12 segundos cada, 30 fps e áudio estéreo.
