@@ -1,14 +1,13 @@
-BELCAM STUDIO — COLEÇÃO PARA FEED — VERSÃO 2
+BELCAM STUDIO — COLEÇÃO PARA FEED — 18 ARTES
 
-9 artes revisadas em PNG, 1122 × 1402 pixels, RGB.
-Formato vertical próximo de 4:5. Resolução original de geração preservada.
+01–09: peças anteriores refinadas.
+10–18: novos posts na mesma identidade visual.
 
-Revisão visual: tipografia condensada seguindo a mesma referência em todas as peças; tamanhos e posições dos títulos ajustados à composição; reflexos e luz localizados sobre as letras; textura de papel, impressão e materiais; redução dos efeitos decorativos.
+Arquivos PNG, 1122 × 1402 pixels, RGB, formato vertical próximo de 4:5. A resolução original de geração foi preservada.
 
-Abra index.html no navegador para visualizar a coleção.
-As imagens estão numeradas de 01 a 09.
-legendas-e-roteiros.txt contém nove legendas e três sugestões de roteiro.
+As peças mantêm tipografia condensada, cores da marca e efeitos de luz integrados aos títulos. Os rodapés foram limpos e o acabamento dos materiais e reflexos foi refinado.
 
-Referências: as quatro imagens enviadas no repositório e a identidade Belcam compartilhada na conversa.
+Abra index.html no navegador para visualizar a coleção completa.
+legendas-e-roteiros.txt contém 18 legendas sugeridas e três roteiros curtos.
 
-As imagens são estáticas. A numeração identifica os arquivos e não determina uma data de publicação.
+Esta entrega contém imagens estáticas. A numeração identifica as peças e não determina uma data de publicação.
