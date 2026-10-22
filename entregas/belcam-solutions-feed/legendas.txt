@@ -1,7 +1,5 @@
 BELCAM SOLUTIONS — LEGENDAS SUGERIDAS
 
-Coleção inicial de seis posts.
-
 01 — DESTRAVE SUA OPERAÇÃO.
 Tema: Melhoria de processos
 Um processo pode travar nas pequenas passagens: uma informação que não chega, uma aprovação que demora ou uma tarefa feita duas vezes. Mapear esses pontos ajuda a criar um fluxo mais claro, com responsabilidades definidas e automações onde elas fazem sentido.
@@ -25,3 +23,27 @@ Formulários, planilhas, CRM e canais de atendimento podem participar do mesmo p
 06 — PRIMEIRO, CLAREZA. DEPOIS, AUTOMAÇÃO.
 Tema: Dica de diagnóstico de processos
 Antes de escolher uma ferramenta, desenhe o processo: identifique a entrada, as etapas, os responsáveis e o resultado esperado. Depois, marque os pontos de espera e as tarefas repetitivas. Esse diagnóstico ajuda a priorizar o que vale automatizar.
+
+07 — DEMORA ESFRIA O INTERESSE.
+Tema: Agilidade no atendimento
+Quem entra em contato quer saber se foi ouvido e qual é o próximo passo. Uma triagem bem definida pode reunir as informações iniciais, identificar a necessidade e encaminhar a conversa para a pessoa certa. Comece observando onde as mensagens ficam paradas e defina responsáveis por cada etapa do atendimento.
+
+08 — A PROPOSTA NÃO É O PONTO FINAL.
+Tema: Acompanhamento de propostas
+Enviar a proposta não encerra a conversa. Registre o que o cliente precisa avaliar, combine um próximo contato e mantenha o histórico acessível. Lembretes automáticos podem apoiar esse acompanhamento; o conteúdo da conversa deve considerar as dúvidas e o momento de cada cliente.
+
+09 — COPIAR. COLAR. REPETIR. ATÉ QUANDO?
+Tema: Redução de retrabalho
+Quando a mesma informação precisa ser digitada em vários lugares, o retrabalho cresce e os registros podem ficar diferentes. Escolha uma fonte principal para cada dado e avalie quais ferramentas podem ser conectadas. Antes de integrar, defina quais informações serão enviadas, quando e para onde.
+
+10 — VENDAS SEM PONTO CEGO.
+Tema: Visibilidade das oportunidades
+Para entender o andamento das vendas, acompanhe mais do que o total de contatos. Cada oportunidade precisa ter uma etapa, um responsável e uma próxima ação registrada. Rever as oportunidades paradas ajuda a identificar dúvidas sem resposta, propostas sem retorno e etapas que precisam de atenção.
+
+11 — SUA EMPRESA NÃO CABE EM VOCÊ.
+Tema: Menos dependência do dono
+Se você se ausentasse por alguns dias, quais tarefas ficariam esperando? Essa pergunta ajuda a revelar dependências da operação. Documente as rotinas, distribua responsabilidades e defina os casos que realmente exigem sua aprovação. Processos claros dão à equipe uma referência para agir e liberam espaço para a gestão.
+
+12 — CRESCER NÃO PRECISA VIRAR CAOS.
+Tema: Crescimento com organização
+Mais demanda exige uma operação preparada para receber, encaminhar e acompanhar o trabalho. Defina entradas, responsáveis e critérios de conclusão antes de acrescentar novas etapas. Automatize o que tem regras claras e revise os fluxos conforme a empresa cresce.

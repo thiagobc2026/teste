@@ -1,17 +1,20 @@
-BELCAM SOLUTIONS — SEIS POSTS PARA FEED
+BELCAM SOLUTIONS — ARTES PARA FEED
 
-01 — Destrave sua operação.
-02 — Automatize o repetitivo.
-03 — Cada etapa. Um próximo passo.
-04 — Contatos não podem se perder.
-05 — Ferramentas diferentes. Um só fluxo.
-06 — Primeiro, clareza. Depois, automação.
+01 — DESTRAVE SUA OPERAÇÃO.
+02 — AUTOMATIZE O REPETITIVO.
+03 — CADA ETAPA. UM PRÓXIMO PASSO.
+04 — CONTATOS NÃO PODEM SE PERDER.
+05 — FERRAMENTAS DIFERENTES. UM SÓ FLUXO.
+06 — PRIMEIRO, CLAREZA. DEPOIS, AUTOMAÇÃO.
+07 — DEMORA ESFRIA O INTERESSE.
+08 — A PROPOSTA NÃO É O PONTO FINAL.
+09 — COPIAR. COLAR. REPETIR. ATÉ QUANDO?
+10 — VENDAS SEM PONTO CEGO.
+11 — SUA EMPRESA NÃO CABE EM VOCÊ.
+12 — CRESCER NÃO PRECISA VIRAR CAOS.
 
-Formato: PNG, RGB, 1122 × 1402 pixels, vertical próximo de 4:5. A resolução original de geração foi preservada.
+Formato: PNG, RGB, 1122 × 1402 pixels, vertical próximo de 4:5. Resolução original preservada.
 
-Paleta visual: azul elétrico e cobalto, grafite, branco e prata.
-
-Abra index.html no navegador para visualizar a coleção.
-legendas.txt contém seis textos sugeridos para acompanhar as publicações.
-
-A numeração identifica as peças e não determina uma data de publicação.
+Abra index.html para visualizar as artes e legendas.
+Os posts 07 a 12 são os seis novos desta entrega. Os posts 01 a 06 foram preservados.
+A numeração identifica as peças e não determina datas de publicação.

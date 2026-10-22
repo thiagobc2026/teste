@@ -50,4 +50,4 @@ Stories em 1080 × 1920, com 12 segundos cada, 30 fps e áudio estéreo.
 
 ## Belcam Solutions
 
-[Seis posts para feed — coleção inicial](entregas/belcam-solutions-feed/README.md). Artes sobre automação, processos, funis, leads, integrações e diagnóstico, com objetos 3D, texturas e identidade visual em azul, grafite e branco. A pasta inclui PNGs, ZIP, galeria e legendas sugeridas.
+[12 posts para feed — incluindo os novos 07 a 12](entregas/belcam-solutions-feed/README.md). Artes sobre automação, atendimento, propostas, vendas e organização da operação, com objetos 3D, texturas e identidade visual em azul, grafite e branco. A pasta inclui PNGs, ZIPs, galeria e legendas sugeridas.

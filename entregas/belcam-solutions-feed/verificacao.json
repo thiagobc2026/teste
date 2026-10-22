@@ -58,5 +58,65 @@
     "format": "PNG",
     "color": "RGB",
     "sha256": "8f5f395d1bbbe7e67f277de3bb1cf2abbca4a7437d7ae66ee117a1c15d11581b"
+  },
+  {
+    "id": "07",
+    "file": "07-demora-esfria-o-interesse.png",
+    "theme": "Agilidade no atendimento",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "a02ba910ad1cfc83c3d5893361694b23b96e279b4363ffcc2b89fe0ebb62ab3e"
+  },
+  {
+    "id": "08",
+    "file": "08-a-proposta-nao-e-o-ponto-final.png",
+    "theme": "Acompanhamento de propostas",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "c1a24157a763f0cf4723bbd9e094d144cfe8b362eef0bf73749b7fc574d51cc4"
+  },
+  {
+    "id": "09",
+    "file": "09-copiar-colar-repetir-ate-quando.png",
+    "theme": "Redução de retrabalho",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "f0f48f29448e0e309648f17638fae9a681eba1baa11ed2da0511da9d2b784272"
+  },
+  {
+    "id": "10",
+    "file": "10-vendas-sem-ponto-cego.png",
+    "theme": "Visibilidade das oportunidades",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "85614b96fa0e047ffb3748ef3af505d94128a46a1e326cfb66ca5f791474d0bb"
+  },
+  {
+    "id": "11",
+    "file": "11-sua-empresa-nao-cabe-em-voce.png",
+    "theme": "Menos dependência do dono",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "b09239e424b1501bccce1b8d1ff1191223506ef118ef9f965b5b97fb37b65b71"
+  },
+  {
+    "id": "12",
+    "file": "12-crescer-nao-precisa-virar-caos.png",
+    "theme": "Crescimento com organização",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "73066119e24bc46e8ddd2ec8413116d43f6e2aff9f63ecb5d0bedab5667f64e7"
   }
 ]
