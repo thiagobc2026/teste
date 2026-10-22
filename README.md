@@ -47,3 +47,7 @@ Para comparação: [ENGSEG V1](entregas/ENGSEG-Motion.mp4), [EFICAZ V1](entregas
 - [Três Stories em MP4 e projeto editável](entregas/belcam-studio-stories/README.md)
 
 Stories em 1080 × 1920, com 12 segundos cada, 30 fps e áudio estéreo.
+
+## Belcam Solutions
+
+[Seis posts para feed — coleção inicial](entregas/belcam-solutions-feed/README.md). Artes sobre automação, processos, funis, leads, integrações e diagnóstico, com objetos 3D, texturas e identidade visual em azul, grafite e branco. A pasta inclui PNGs, ZIP, galeria e legendas sugeridas.

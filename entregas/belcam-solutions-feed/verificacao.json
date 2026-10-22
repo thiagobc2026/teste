@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "file": "01-destrave-sua-operacao.png",
+    "theme": "Melhoria de processos",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "142654b3438e0616837054a86cce1a53d2b84fb6058d5a4312f6814f9b7dfd5e"
+  },
+  {
+    "id": "02",
+    "file": "02-automatize-o-repetitivo.png",
+    "theme": "Automação de tarefas",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "1cd58cd782e469f69cd8b37591e8f3f8d5c28086352b0c31ba460278eaf8870b"
+  },
+  {
+    "id": "03",
+    "file": "03-cada-etapa-tem-um-proximo-passo.png",
+    "theme": "Funis de vendas",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "1e8e8696a7f3c14dc1f06fb0f97d8cf5e19e36461da7b5e7c43d2d84faec8f36"
+  },
+  {
+    "id": "04",
+    "file": "04-contatos-nao-podem-se-perder.png",
+    "theme": "Captação e organização de leads",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "57623cd15503b62610879aef9a214af21f6b76187c39b76edc169e8592f24ec8"
+  },
+  {
+    "id": "05",
+    "file": "05-ferramentas-diferentes-um-so-fluxo.png",
+    "theme": "Integração de ferramentas",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "58f5a4a75045e61ff1833f027812ca816951876336d41b0e36fdc6689f679def"
+  },
+  {
+    "id": "06",
+    "file": "06-primeiro-clareza-depois-automacao.png",
+    "theme": "Dica de diagnóstico de processos",
+    "width": 1122,
+    "height": 1402,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "8f5f395d1bbbe7e67f277de3bb1cf2abbca4a7437d7ae66ee117a1c15d11581b"
+  }
+]
