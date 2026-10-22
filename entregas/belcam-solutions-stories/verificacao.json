@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "file": "01-atendimento-sem-espera.png",
+    "theme": "Atendimento com automação",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "8c91d6034aa5889d2880a933241e2a4b4755276764ac3c68ad2aeaf84e7f9174"
+  },
+  {
+    "id": "02",
+    "file": "02-organize-o-fluxo.png",
+    "theme": "Melhoria de fluxo",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "1e86c23af644efc37504b92b63a5150537b12fba4cdb28ce77f19a405a981f56"
+  },
+  {
+    "id": "03",
+    "file": "03-controle-financeiro.png",
+    "theme": "Organização financeira",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "282cc5cc3aad0471c18499e908319d669db2d6b3a9003793f517a5a18385fe24"
+  },
+  {
+    "id": "04",
+    "file": "04-videos-que-explicam.png",
+    "theme": "Vídeos personalizados",
+    "width": 941,
+    "height": 1671,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "eb82c4e3429458902a60d8fc54e1034745695cb2539bd6a65635b28566cd6c95"
+  },
+  {
+    "id": "05",
+    "file": "05-acompanhe-as-propostas.png",
+    "theme": "Leads e acompanhamento comercial",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "4c7ed19b0e8560b6ae1fb8cfe871f4f123b4e9fedd0cf9dad00895d3cb79b917"
+  },
+  {
+    "id": "06",
+    "file": "06-automacao-sob-medida.png",
+    "theme": "Automação de tarefas",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "2072906159e9ab61d1432563936385f050ac79bbeaeac748a10ead92696b1c8c"
+  }
+]

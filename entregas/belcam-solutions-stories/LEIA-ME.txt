@@ -1,0 +1,10 @@
+BELCAM SOLUTIONS — 6 STORIES
+
+Artes estáticas em PNG, RGB, com proporção aproximada de 9:16.
+Dimensões originais: 941 × 1672 pixels, exceto a peça 04 com 941 × 1671 pixels.
+
+Abra index.html para visualizar os seis Stories.
+textos-dos-stories.txt reúne as dicas e os convites das artes.
+sugestoes-de-enquetes.txt traz perguntas para publicar em Stories complementares.
+
+A numeração organiza a entrega e não fixa datas de publicação.
