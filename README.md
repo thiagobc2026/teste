@@ -41,12 +41,13 @@ Para comparação: [ENGSEG V1](entregas/ENGSEG-Motion.mp4), [EFICAZ V1](entregas
 
 ## Belcam Studio
 
-**21 posts para feed e 3 vídeos em motion para Stories.**
+**21 posts para feed, 6 artes para Stories e 3 vídeos em motion para Stories.**
 
-- [Posts para feed — incluindo os novos 19, 20 e 21](entregas/belcam-studio-feed/README.md)
+- [Posts para feed — coleção completa](entregas/belcam-studio-feed/README.md)
+- [Seis artes para Stories — dicas sobre vídeos, motion, mascotes e personagens](entregas/belcam-studio-stories-artes/README.md)
 - [Três Stories em MP4 e projeto editável](entregas/belcam-studio-stories/README.md)
 
-Stories em 1080 × 1920, com 12 segundos cada, 30 fps e áudio estéreo.
+As novas artes incluem PNGs, ZIP, galeria, textos e sugestões de enquetes. Os três vídeos estão em 1080 × 1920, com 12 segundos cada, 30 fps e áudio estéreo.
 
 ## Belcam Solutions
 

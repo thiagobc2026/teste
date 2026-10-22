@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "file": "01-videos-personalizados.png",
+    "theme": "Vídeos personalizados",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "388e0a3c9b2775b91fa8e68a49fe15ddd90a973a8eb31aa05c9ddd2c1084a288"
+  },
+  {
+    "id": "02",
+    "file": "02-motion-com-intencao.png",
+    "theme": "Motion design",
+    "width": 941,
+    "height": 1671,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "1c37f8b4bf2fa380f36fa733fbb7b2d00177621f065612dfc1d4171be2541616"
+  },
+  {
+    "id": "03",
+    "file": "03-mascotes-com-personalidade.png",
+    "theme": "Mascotes exclusivos",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "51c134b1671d86707c41e8cffd944482a199d8202574ae5866c2bb95743c7c02"
+  },
+  {
+    "id": "04",
+    "file": "04-avatares-e-personagens.png",
+    "theme": "Avatares e personagens",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "f87916e01bd77d2abd52180a33436997032da9c925cd281aa27e79467c622734"
+  },
+  {
+    "id": "05",
+    "file": "05-videos-explicativos.png",
+    "theme": "Vídeos explicativos e corporativos",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "43a101b062c3eff9d798e9ab430dadb77057057aa1a5f5076f43f7c0475eac63"
+  },
+  {
+    "id": "06",
+    "file": "06-criacao-para-as-redes.png",
+    "theme": "Posts e vídeos para redes sociais",
+    "width": 941,
+    "height": 1672,
+    "format": "PNG",
+    "color": "RGB",
+    "sha256": "aa3e92310f0720caaf752f57a49f24137c057c3a7011929a57caf2afc4b23e1c"
+  }
+]
