@@ -1,0 +1,8 @@
+BELCAM STUDIO — NOVOS POSTS
+
+Lote em produção: 6 de 12 novas artes disponíveis.
+
+PNG, RGB, proporção próxima de 4:5. Dimensões originais de cada arquivo em verificacao.json.
+Abra index.html para navegar pela coleção.
+legendas.md contém textos sugeridos para publicação.
+pautas-e-interacoes.md organiza os temas e as perguntas.

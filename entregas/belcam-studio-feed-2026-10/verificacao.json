@@ -1,0 +1,62 @@
+[
+  {
+    "id": "22",
+    "file": "22-seu-video-comeca-ou-enrola.png",
+    "theme": "Aberturas de vídeos curtos",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "08c04111a23e94baf1a7c7ba201b5a1f285697e45a38e7fa2175e2d8b8a1fc16"
+  },
+  {
+    "id": "23",
+    "file": "23-trend-passa-identidade-fica.png",
+    "theme": "Tendências com identidade",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "5a299c740666b1604ebbedc5e300dd4138da81e8ce491b8b56210b7e9958f289"
+  },
+  {
+    "id": "24",
+    "file": "24-sem-som-a-mensagem-continua.png",
+    "theme": "Legendas e leitura sem áudio",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "03e024193ef4b6084d79bd1c28298986239081ad60f01507a936a6f12dfd6ed6"
+  },
+  {
+    "id": "25",
+    "file": "25-que-jeito-teria-seu-mascote.png",
+    "theme": "Personalidade de mascotes",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "267440d5baa08909e7a9470a2ee7a7e35520d457741ce5d7ff9ef0a142cf4fb0"
+  },
+  {
+    "id": "26",
+    "file": "26-bastidor-tambem-e-conteudo.png",
+    "theme": "Bastidores e processo criativo",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "486fafe85d1f3f27cf70c5e60a512d00f1e538aa30944f72ee4d7b5368035dbc"
+  },
+  {
+    "id": "27",
+    "file": "27-qual-abertura-prende-mais.png",
+    "theme": "Teste de ideias para vídeos",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "91ddb5a0603d7f9316b6f95ec78af2bab2b9ece3f3ffaa108500bcf5959867a1"
+  }
+]
