@@ -41,6 +41,8 @@ Para comparação: [ENGSEG V1](entregas/ENGSEG-Motion.mp4), [EFICAZ V1](entregas
 
 ## Belcam Studio
 
+**[Abrir o acervo central: feed e Stories](entregas/belcam-studio/README.md)**
+
 **Nova coleção: 12 posts interativos para feed vertical.**
 
 - [12 novos posts — vídeos, motion, mascotes, identidade e campanhas](entregas/belcam-studio-feed-2026-10/README.md)
@@ -51,6 +53,8 @@ Para comparação: [ENGSEG V1](entregas/ENGSEG-Motion.mp4), [EFICAZ V1](entregas
 Os 12 novos posts incluem PNGs, ZIP, galeria, legendas e perguntas para comentários. Mantêm a identidade em verde e marfim, com objetos 3D, texturas e iluminação integrada à tipografia. Os três vídeos anteriores estão em 1080 × 1920, com 12 segundos cada, 30 fps e áudio estéreo.
 
 ## Belcam Solutions
+
+**[Abrir o acervo central: feed e Stories](entregas/belcam-solutions/README.md)**
 
 **Nova coleção: 12 posts interativos para feed vertical.**
 

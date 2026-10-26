@@ -1,0 +1,402 @@
+[
+  {
+    "file": "feed/01-destrave-sua-operacao.png",
+    "bytes": 2331093,
+    "sha256": "142654b3438e0616837054a86cce1a53d2b84fb6058d5a4312f6814f9b7dfd5e",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/02-automatize-o-repetitivo.png",
+    "bytes": 2476620,
+    "sha256": "1cd58cd782e469f69cd8b37591e8f3f8d5c28086352b0c31ba460278eaf8870b",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/03-cada-etapa-tem-um-proximo-passo.png",
+    "bytes": 2324951,
+    "sha256": "1e8e8696a7f3c14dc1f06fb0f97d8cf5e19e36461da7b5e7c43d2d84faec8f36",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/04-contatos-nao-podem-se-perder.png",
+    "bytes": 2495178,
+    "sha256": "57623cd15503b62610879aef9a214af21f6b76187c39b76edc169e8592f24ec8",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/05-ferramentas-diferentes-um-so-fluxo.png",
+    "bytes": 2480791,
+    "sha256": "58f5a4a75045e61ff1833f027812ca816951876336d41b0e36fdc6689f679def",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/06-primeiro-clareza-depois-automacao.png",
+    "bytes": 2471298,
+    "sha256": "8f5f395d1bbbe7e67f277de3bb1cf2abbca4a7437d7ae66ee117a1c15d11581b",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/07-demora-esfria-o-interesse.png",
+    "bytes": 2635650,
+    "sha256": "a02ba910ad1cfc83c3d5893361694b23b96e279b4363ffcc2b89fe0ebb62ab3e",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/08-a-proposta-nao-e-o-ponto-final.png",
+    "bytes": 2642762,
+    "sha256": "c1a24157a763f0cf4723bbd9e094d144cfe8b362eef0bf73749b7fc574d51cc4",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/09-copiar-colar-repetir-ate-quando.png",
+    "bytes": 2300756,
+    "sha256": "f0f48f29448e0e309648f17638fae9a681eba1baa11ed2da0511da9d2b784272",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/10-vendas-sem-ponto-cego.png",
+    "bytes": 2274148,
+    "sha256": "85614b96fa0e047ffb3748ef3af505d94128a46a1e326cfb66ca5f791474d0bb",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/11-sua-empresa-nao-cabe-em-voce.png",
+    "bytes": 2282455,
+    "sha256": "b09239e424b1501bccce1b8d1ff1191223506ef118ef9f965b5b97fb37b65b71",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/12-crescer-nao-precisa-virar-caos.png",
+    "bytes": 2286333,
+    "sha256": "73066119e24bc46e8ddd2ec8413116d43f6e2aff9f63ecb5d0bedab5667f64e7",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/13-ia-com-direcao.jpg",
+    "bytes": 372593,
+    "sha256": "b283055e0e97fe0eec96009f36b4caaa6e073bc56116abb0f06ff3624c2391ca",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/14-dados-confiaveis.jpg",
+    "bytes": 321667,
+    "sha256": "78b183a761c9747b74dc1b4475d3b8f3f7dac8007ba354e990d6cd8a45c4039c",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/15-pos-venda.jpg",
+    "bytes": 315780,
+    "sha256": "6ebbf0252ef472f8198672f0dfed137ed2abc917809359c0662d3fe2b4fd6196",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/16-automacao-acompanhada.jpg",
+    "bytes": 355615,
+    "sha256": "8b91484126fd86ac0d01bfdfab26c9016e9a1c9d4c00e7e5795481ebbcdfa758",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/17-sua-ia-entende-audio.png",
+    "bytes": 2268877,
+    "sha256": "67dbf16f12578deb89fe3f2f3d9d0d23f5ac7d0e2b9864e5473c02c72a11dca0",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/18-quando-chamar-uma-pessoa.png",
+    "bytes": 2468920,
+    "sha256": "2d2f7df22af8b671982932b4167529831ef3b7007cd371338b0c18e22b0438ba",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/19-leads-mais-certos.png",
+    "bytes": 2337391,
+    "sha256": "1b939238195f50d205bbaa217357bd66b228203dbd416ab60ee47e1647101c1c",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/20-agenda-com-buracos.png",
+    "bytes": 2343388,
+    "sha256": "2baa0bfa4d5d5dc8c113d67b8f0f101aaefe1bd50a925fb03e291a3cb473b7a6",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/21-vendeu-entrou-no-caixa.png",
+    "bytes": 2192747,
+    "sha256": "b34ac233d7ee11b4b24e9a6b1d56f923140c684018c3491f25773b412280f322",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/22-cliente-repete-tudo.png",
+    "bytes": 2567261,
+    "sha256": "34b3269d576bff2f15f77cab4619a920c5b2ffafd33cf2b89c6160ae764cfc12",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/23-formulario-ajuda-ou-espanta.png",
+    "bytes": 2262125,
+    "sha256": "8433f126fed08c836304957fa8d6dc3234fc978aaba3253425d337c1753f0f27",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/24-black-friday-seu-fluxo-aguenta.png",
+    "bytes": 2283973,
+    "sha256": "aa0f745449b3100363c47e367acab093f4945551d991273a05836adb919af7ff",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/25-toda-duvida-comeca-do-zero.png",
+    "bytes": 2273267,
+    "sha256": "0a39299c4ff5af61080f595d5cc725f9ceed4d0a52604f69d966a4c5b3e1f3ae",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/26-onde-o-cliente-desiste.png",
+    "bytes": 2429476,
+    "sha256": "af22bf0a84de71c024e921bdf04a1f04c43c2e3b139ede7c222fc3f592195b33",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/27-informacao-antes-do-problema.png",
+    "bytes": 2207385,
+    "sha256": "1528e992c47f5b19847348c014094e918f65e26c0daa756933623971e4e78f75",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/28-qual-fluxo-simplificar.png",
+    "bytes": 2223972,
+    "sha256": "ede609cf121ff7331d56d3389332b18541a335dc5d219fa544a5f6282bdbd274",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/linkedin/com-retrato/13-ia-com-direcao.jpg",
+    "bytes": 318995,
+    "sha256": "1859484022aac55e42fe37fef3a47dbf2a9de49accbbf025585b8c47a88901dd",
+    "width": 1734,
+    "height": 907,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/linkedin/com-retrato/14-dados-confiaveis.jpg",
+    "bytes": 312145,
+    "sha256": "6731c65b7469788630e3fc983605718f9ba5aad72f747a7b5b87eb5d2b006c74",
+    "width": 1734,
+    "height": 907,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/linkedin/com-retrato/15-pos-venda.jpg",
+    "bytes": 286904,
+    "sha256": "b1634a9b349de66bef6d99934ade1c1a533b1f0ef2f709828ca9fdc68fb9b75a",
+    "width": 1734,
+    "height": 907,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/linkedin/com-retrato/16-automacao-acompanhada.jpg",
+    "bytes": 300701,
+    "sha256": "1d7e295f85eab9c81e513ef0a37daa462409a329fd52eb938fc2abbbf7e6f4c5",
+    "width": 1734,
+    "height": 907,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/linkedin/sem-retrato/01-o-que-automatizar-primeiro.jpg",
+    "bytes": 271890,
+    "sha256": "b8410479eafaad14b5b41ee26a8ebab79f30ca3995032debb3007a32cca83ac4",
+    "width": 1734,
+    "height": 907,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/linkedin/sem-retrato/02-qualidade-dos-dados.jpg",
+    "bytes": 296493,
+    "sha256": "908f1f2c327f11d6e237b12932dab9a94a391b859e92fc89565765247c54568a",
+    "width": 1734,
+    "height": 907,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/linkedin/sem-retrato/03-pos-venda-com-continuidade.jpg",
+    "bytes": 252741,
+    "sha256": "6a95a39318eb8fd04dbc9a424ec77dca0776fdeedd93b2af8dccf9739c5d479e",
+    "width": 1734,
+    "height": 907,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/linkedin/sem-retrato/04-quem-acompanha-a-automacao.jpg",
+    "bytes": 270877,
+    "sha256": "aa773b759c6f47dd4d01e245a80b8963f2f989eedb5ea05bf34cb704c2b1e994",
+    "width": 1734,
+    "height": 907,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/01-destrave-sua-operacao.png",
+    "bytes": 2183660,
+    "sha256": "5700475a4da3064e34062789401b03166b9ca05926f8e7aa8464a93c5641626c",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/02-automatize-o-repetitivo.png",
+    "bytes": 2201274,
+    "sha256": "d385274b89d0b3f80cb6bb9f8ad9b12a34fd68ff58a4aae4291bfeaa556c311d",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/03-cada-etapa-tem-um-proximo-passo.png",
+    "bytes": 2256321,
+    "sha256": "d2382549c0eacb58be265b46c74df0e9b515db4a175332c8eeb8d5237b192986",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/04-contatos-nao-podem-se-perder.png",
+    "bytes": 2573561,
+    "sha256": "bfc7c658300ad4c4c1d053d60736cf70f49839ce84a518751bc35aa4422d380f",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/05-ferramentas-diferentes-um-so-fluxo.png",
+    "bytes": 2369561,
+    "sha256": "bf41271348dd60dd7c4c7b0ef07fff66e75e0f17b24f671204eb749048e12581",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/06-primeiro-clareza-depois-automacao.png",
+    "bytes": 2236122,
+    "sha256": "a4b5b65a487af6c0621916707dd4230e1ec1448b84c2b14af0dba1df0a6a5a75",
+    "width": 940,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/07-demora-esfria-o-interesse.png",
+    "bytes": 2429438,
+    "sha256": "198b3c2fc5499139e2abab0190afb2459b3827862148649bdf0ca9bbd135a4b6",
+    "width": 940,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/08-a-proposta-nao-e-o-ponto-final.png",
+    "bytes": 2329638,
+    "sha256": "b3b5e8db899ecc903ea0edca14f8222c740cc919a454c95df5e2b098d0e9696d",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/dicas/01-atendimento-sem-espera.png",
+    "bytes": 2040440,
+    "sha256": "8c91d6034aa5889d2880a933241e2a4b4755276764ac3c68ad2aeaf84e7f9174",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/dicas/02-organize-o-fluxo.png",
+    "bytes": 2310212,
+    "sha256": "1e86c23af644efc37504b92b63a5150537b12fba4cdb28ce77f19a405a981f56",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/dicas/03-controle-financeiro.png",
+    "bytes": 2075874,
+    "sha256": "282cc5cc3aad0471c18499e908319d669db2d6b3a9003793f517a5a18385fe24",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/dicas/04-videos-que-explicam.png",
+    "bytes": 2218103,
+    "sha256": "eb82c4e3429458902a60d8fc54e1034745695cb2539bd6a65635b28566cd6c95",
+    "width": 941,
+    "height": 1671,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/dicas/05-acompanhe-as-propostas.png",
+    "bytes": 2163692,
+    "sha256": "4c7ed19b0e8560b6ae1fb8cfe871f4f123b4e9fedd0cf9dad00895d3cb79b917",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/dicas/06-automacao-sob-medida.png",
+    "bytes": 2218102,
+    "sha256": "2072906159e9ab61d1432563936385f050ac79bbeaeac748a10ead92696b1c8c",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  }
+]
