@@ -58,5 +58,65 @@
     "mode": "RGB",
     "format": "PNG",
     "sha256": "34b3269d576bff2f15f77cab4619a920c5b2ffafd33cf2b89c6160ae764cfc12"
+  },
+  {
+    "id": "23",
+    "file": "23-formulario-ajuda-ou-espanta.png",
+    "theme": "Menos atrito na captação",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "8433f126fed08c836304957fa8d6dc3234fc978aaba3253425d337c1753f0f27"
+  },
+  {
+    "id": "24",
+    "file": "24-black-friday-seu-fluxo-aguenta.png",
+    "theme": "Preparação para Black Friday",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "aa0f745449b3100363c47e367acab093f4945551d991273a05836adb919af7ff"
+  },
+  {
+    "id": "25",
+    "file": "25-toda-duvida-comeca-do-zero.png",
+    "theme": "Base de conhecimento",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "0a39299c4ff5af61080f595d5cc725f9ceed4d0a52604f69d966a4c5b3e1f3ae"
+  },
+  {
+    "id": "26",
+    "file": "26-onde-o-cliente-desiste.png",
+    "theme": "Conversão e jornada do cliente",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "af22bf0a84de71c024e921bdf04a1f04c43c2e3b139ede7c222fc3f592195b33"
+  },
+  {
+    "id": "27",
+    "file": "27-informacao-antes-do-problema.png",
+    "theme": "Relatórios e acompanhamento",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "1528e992c47f5b19847348c014094e918f65e26c0daa756933623971e4e78f75"
+  },
+  {
+    "id": "28",
+    "file": "28-qual-fluxo-simplificar.png",
+    "theme": "Escolha da próxima automação",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "ede609cf121ff7331d56d3389332b18541a335dc5d219fa544a5f6282bdbd274"
   }
 ]

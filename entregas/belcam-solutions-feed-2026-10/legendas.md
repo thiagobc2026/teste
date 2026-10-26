@@ -25,3 +25,27 @@ Venda registrada e dinheiro recebido são informações diferentes. Acompanhe o 
 ## 22 — SEU CLIENTE REPETE TUDO?
 
 Trocar de canal ou de atendente não deveria apagar o contexto. Registrar o pedido, as informações já confirmadas e o próximo passo ajuda a dar continuidade à conversa. Integrações podem apoiar esse histórico quando os canais e as permissões permitem. Você já precisou repetir a mesma história para várias pessoas?
+
+## 23 — SEU FORMULÁRIO AJUDA OU ESPANTA?
+
+Um formulário longo demais pode dificultar o primeiro contato. Revise cada campo e pergunte: essa informação é necessária agora ou pode ser pedida depois? Comece com o que permite entender a necessidade e retornar ao cliente. Qual pergunta você retiraria do seu formulário hoje?
+
+## 24 — BLACK FRIDAY. SEU FLUXO AGUENTA?
+
+A campanha começa antes do primeiro pedido. Revise quem atende, quais prazos podem ser cumpridos e como cada oportunidade será acompanhada. Teste o caminho completo com a equipe antes de aumentar o volume de mensagens. Se a procura crescesse de repente, o que travaria primeiro na sua empresa?
+
+## 25 — TODA DÚVIDA COMEÇA DO ZERO?
+
+Quando as mesmas dúvidas aparecem todos os dias, vale organizar uma base de respostas. Reúna orientações sobre serviços, prazos, documentos e próximos passos, com alguém responsável por atualizar o conteúdo. Essa base pode apoiar tanto a equipe quanto uma automação de atendimento. Qual pergunta mais chega para você?
+
+## 26 — ONDE O CLIENTE DESISTE?
+
+O cliente pode demonstrar interesse e parar antes de contratar. Observe em qual etapa isso acontece: pedido inicial, orçamento, resposta a uma dúvida ou fechamento. Conversar com a equipe e revisar esses pontos ajuda a escolher o que melhorar primeiro. Na sua percepção, pesa mais o preço, a demora ou o excesso de etapas?
+
+## 27 — A INFORMAÇÃO CHEGA ANTES DO PROBLEMA?
+
+Um relatório útil ajuda a perceber onde agir. Escolha poucos indicadores ligados à rotina, como propostas sem retorno, horários não confirmados ou recebimentos pendentes. Defina quem acompanha cada sinal e o que fazer quando ele aparece. Qual informação faria diferença se chegasse organizada todos os dias?
+
+## 28 — QUAL FLUXO VOCÊ QUER SIMPLIFICAR?
+
+Escolher uma melhoria fica mais fácil quando você olha para a rotina real. Onde há repetição, espera ou informação perdida? Atendimento, agenda, financeiro e tarefas internas podem ter oportunidades diferentes. Escolha uma dessas áreas nos comentários e conte qual etapa mais toma tempo hoje.
