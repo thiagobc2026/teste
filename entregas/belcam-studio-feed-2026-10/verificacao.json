@@ -58,5 +58,65 @@
     "mode": "RGB",
     "format": "PNG",
     "sha256": "91ddb5a0603d7f9316b6f95ec78af2bab2b9ece3f3ffaa108500bcf5959867a1"
+  },
+  {
+    "id": "28",
+    "file": "28-sua-marca-merece-uma-serie.png",
+    "theme": "Conteúdo em série",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "9af5abe7b46b055e1bc7ebed434fe458e798ad50c8ce5a483448410543dc1d6c"
+  },
+  {
+    "id": "29",
+    "file": "29-explicar-bem-e-criativo.png",
+    "theme": "Motion para explicar serviços",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "f2de0786d1ed417d5ca699f3431ce28069c7134d8f28ae7e70b7ae37ebe87e30"
+  },
+  {
+    "id": "30",
+    "file": "30-black-friday-com-sua-cara.png",
+    "theme": "Campanhas com identidade",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "cbddf2b42464a1e184cf6c70548b631be81ab37fd6bfa36310b6233cd56b02a0"
+  },
+  {
+    "id": "31",
+    "file": "31-ia-cria-quem-da-direcao.png",
+    "theme": "IA e direção criativa",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "213f9414ec842510902c9fd6d388d6f46a856f1599a51944909e2a4530d8c049"
+  },
+  {
+    "id": "32",
+    "file": "32-um-personagem-muitas-historias.png",
+    "theme": "Avatares em campanhas",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "c96a0a68030fafc998249c5872c4c72bb605d87cb00dd49af2f81eaa2702dbff"
+  },
+  {
+    "id": "33",
+    "file": "33-qual-ideia-merece-ganhar-vida.png",
+    "theme": "Escolha do próximo projeto",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "9992d9a32ba1cdebeb5cf29377d0bbc4c28fc42cb9a4a26c0c486426faba4af6"
   }
 ]

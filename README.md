@@ -41,19 +41,21 @@ Para comparação: [ENGSEG V1](entregas/ENGSEG-Motion.mp4), [EFICAZ V1](entregas
 
 ## Belcam Studio
 
-**21 posts para feed, 6 artes para Stories e 3 vídeos em motion para Stories.**
+**Nova coleção: 12 posts interativos para feed vertical.**
 
-- [Posts para feed — coleção completa](entregas/belcam-studio-feed/README.md)
+- [12 novos posts — vídeos, motion, mascotes, identidade e campanhas](entregas/belcam-studio-feed-2026-10/README.md)
+- [21 posts anteriores para feed](entregas/belcam-studio-feed/README.md)
 - [Seis artes para Stories — dicas sobre vídeos, motion, mascotes e personagens](entregas/belcam-studio-stories-artes/README.md)
 - [Três Stories em MP4 e projeto editável](entregas/belcam-studio-stories/README.md)
 
-As novas artes incluem PNGs, ZIP, galeria, textos e sugestões de enquetes. Os três vídeos estão em 1080 × 1920, com 12 segundos cada, 30 fps e áudio estéreo.
+Os 12 novos posts incluem PNGs, ZIP, galeria, legendas e perguntas para comentários. Mantêm a identidade em verde e marfim, com objetos 3D, texturas e iluminação integrada à tipografia. Os três vídeos anteriores estão em 1080 × 1920, com 12 segundos cada, 30 fps e áudio estéreo.
 
 ## Belcam Solutions
 
-**12 posts para feed e 6 Stories com dicas rápidas.**
+**Nova coleção: 12 posts interativos para feed vertical.**
 
-- [Posts para feed — coleção completa](entregas/belcam-solutions-feed/README.md)
+- [12 novos posts — IA, atendimento, leads, financeiro e operação](entregas/belcam-solutions-feed-2026-10/README.md)
+- [12 posts da coleção inicial para feed](entregas/belcam-solutions-feed/README.md)
 - [Stories — dicas, serviços e sugestões de enquetes](entregas/belcam-solutions-stories/README.md)
 
 Artes sobre automação, atendimento, propostas, controle financeiro, vídeos personalizados e organização da operação, com objetos 3D, texturas e identidade visual em azul, grafite e branco. As pastas incluem PNGs, ZIPs, galerias e textos para publicação.
