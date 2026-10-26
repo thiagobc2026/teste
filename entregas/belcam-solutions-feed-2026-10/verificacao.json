@@ -1,0 +1,62 @@
+[
+  {
+    "id": "17",
+    "file": "17-sua-ia-entende-audio.png",
+    "theme": "IA e atendimento por áudio",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "67dbf16f12578deb89fe3f2f3d9d0d23f5ac7d0e2b9864e5473c02c72a11dca0"
+  },
+  {
+    "id": "18",
+    "file": "18-quando-chamar-uma-pessoa.png",
+    "theme": "IA com atendimento humano",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "2d2f7df22af8b671982932b4167529831ef3b7007cd371338b0c18e22b0438ba"
+  },
+  {
+    "id": "19",
+    "file": "19-leads-mais-certos.png",
+    "theme": "Qualificação de leads",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "1b939238195f50d205bbaa217357bd66b228203dbd416ab60ee47e1647101c1c"
+  },
+  {
+    "id": "20",
+    "file": "20-agenda-com-buracos.png",
+    "theme": "Agenda e lembretes",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "2baa0bfa4d5d5dc8c113d67b8f0f101aaefe1bd50a925fb03e291a3cb473b7a6"
+  },
+  {
+    "id": "21",
+    "file": "21-vendeu-entrou-no-caixa.png",
+    "theme": "Vendas e controle financeiro",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "b34ac233d7ee11b4b24e9a6b1d56f923140c684018c3491f25773b412280f322"
+  },
+  {
+    "id": "22",
+    "file": "22-cliente-repete-tudo.png",
+    "theme": "Histórico conectado de atendimento",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "34b3269d576bff2f15f77cab4619a920c5b2ffafd33cf2b89c6160ae764cfc12"
+  }
+]
