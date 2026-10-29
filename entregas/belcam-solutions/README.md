@@ -1,8 +1,8 @@
 # Belcam Solutions — Acervo completo
 
-**34 artes de feed · 37 Stories estáticos disponíveis · 8 variações de LinkedIn**
+**34 artes de feed · 44 Stories estáticos disponíveis · 8 variações de LinkedIn**
 
-25 de 32 adaptações disponíveis.
+Todas as artes de feed têm uma versão correspondente para Stories.
 
 - [Feed: artes e textos](feed/README.md)
 - [Stories: versões verticais, dicas e vídeos](stories/README.md)

@@ -264,6 +264,86 @@
     "mode": "RGB"
   },
   {
+    "file": "feed/carrosseis/02-whatsapp-com-contexto/01.png",
+    "bytes": 2065291,
+    "sha256": "9a4c62f807a41522d7a7229d3d9a26e92803a677ba6f932366dc01681a323f7c",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/02-whatsapp-com-contexto/02.png",
+    "bytes": 2264437,
+    "sha256": "40102ee4bb1dc91d634cbb9425d8126535d6e5368c729a1134621e1a993f8d58",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/02-whatsapp-com-contexto/03.png",
+    "bytes": 2282156,
+    "sha256": "a63281144b0955286bacf4dc67d5fcc26935d5faa7d1a8a8ac07ec31c7640077",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/02-whatsapp-com-contexto/04.png",
+    "bytes": 2415166,
+    "sha256": "af5122233f3b131d0a5aa1c27a2c7df2e70914a300b1e8ce486b0da6f0a1596d",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/02-whatsapp-com-contexto/05.png",
+    "bytes": 2170243,
+    "sha256": "cd99dd832e669ed3522ad118072cf2bfa97d2d2c04c2845d2400cd4a39ea456b",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/03-automacao-com-direcao/01.png",
+    "bytes": 1918628,
+    "sha256": "dd422cee39f6dad21e5a7da98cff15565aefc32af189807a48cb58a738db6b97",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/03-automacao-com-direcao/02.png",
+    "bytes": 2020732,
+    "sha256": "58b50783f99ee712dc478b79eb13b56e00973c1240f4a6e7a545fa1ef3b021af",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/03-automacao-com-direcao/03.png",
+    "bytes": 1875351,
+    "sha256": "58c5da4387dae42992a6542c98d765c7838019224bc4770d6eeecfd9cee170fd",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/03-automacao-com-direcao/04.png",
+    "bytes": 1987202,
+    "sha256": "0f5567a4c5ee7a73050ed91adc5cfcdeaba9d20d99f858f17d683c25958ff3af",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/03-automacao-com-direcao/05.png",
+    "bytes": 1947704,
+    "sha256": "ed30a2bb0a843a7e52720e223a90c4dfa6925639c37e46b009276b8809c41b90",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
     "file": "feed/crm/01-funil-de-vendas.png",
     "bytes": 2011070,
     "sha256": "e17547de143606335a3ed8e7f11391f23adf22704aae37fce476021e40b8b809",
@@ -571,6 +651,62 @@
     "file": "stories/25-toda-duvida-comeca-do-zero.png",
     "bytes": 2096039,
     "sha256": "c984c70ae2dcca50672f68e2527a0063ae0b5220bdd5f6f027c8f5267fb09f8f",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/26-onde-o-cliente-desiste.png",
+    "bytes": 2328843,
+    "sha256": "1d99ce6055f85f4c30cb6623101531b25769851b6cf80c2403606aaf43ef850f",
+    "width": 940,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/27-informacao-antes-do-problema.png",
+    "bytes": 2140297,
+    "sha256": "3627d620d8d694e88eeb4ecd7ce7441d0c82d512325c5b6f08cd46b3d51e920c",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/28-qual-fluxo-simplificar.png",
+    "bytes": 2090670,
+    "sha256": "3ad80dab09887564b51967791760949bd6076376a5c8076480fa2a6c248e96f8",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/L01-o-que-automatizar-primeiro.png",
+    "bytes": 2022933,
+    "sha256": "8c515bab7d84d699a5acf769d5982322c9a63898b9ebe2a31cd32acaf6f52a9f",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/L02-qualidade-dos-dados.png",
+    "bytes": 2223262,
+    "sha256": "9a7ca9c471a36425778c74fa01e06787b803f8b4a3dca1ec2e9291360d1acb12",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/L03-pos-venda-com-continuidade.png",
+    "bytes": 1965934,
+    "sha256": "a7eb49c73d245fc4072c92a1d67aabd4e49054238b9bc20831a16cc81d02b07b",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/L04-quem-acompanha-a-automacao.png",
+    "bytes": 1848281,
+    "sha256": "3f92fa90b85f992ba1805315955aa34bfe23c7ba32595333e0abd91954a7bc50",
     "width": 941,
     "height": 1672,
     "mode": "RGB"

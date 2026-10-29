@@ -1,6 +1,6 @@
 # Belcam Solutions — Feed e Stories
 
-25 de 32 adaptações disponíveis.
+Todas as artes de feed têm uma versão correspondente para Stories.
 
 | Arte de feed | Story correspondente |
 | --- | --- |
@@ -25,9 +25,9 @@
 | [23-formulario-ajuda-ou-espanta](feed/23-formulario-ajuda-ou-espanta.png) | [Story](stories/23-formulario-ajuda-ou-espanta.png) |
 | [24-black-friday-seu-fluxo-aguenta](feed/24-black-friday-seu-fluxo-aguenta.png) | [Story](stories/24-black-friday-seu-fluxo-aguenta.png) |
 | [25-toda-duvida-comeca-do-zero](feed/25-toda-duvida-comeca-do-zero.png) | [Story](stories/25-toda-duvida-comeca-do-zero.png) |
-| [26-onde-o-cliente-desiste](feed/26-onde-o-cliente-desiste.png) | Em adaptação |
-| [27-informacao-antes-do-problema](feed/27-informacao-antes-do-problema.png) | Em adaptação |
-| [28-qual-fluxo-simplificar](feed/28-qual-fluxo-simplificar.png) | Em adaptação |
+| [26-onde-o-cliente-desiste](feed/26-onde-o-cliente-desiste.png) | [Story](stories/26-onde-o-cliente-desiste.png) |
+| [27-informacao-antes-do-problema](feed/27-informacao-antes-do-problema.png) | [Story](stories/27-informacao-antes-do-problema.png) |
+| [28-qual-fluxo-simplificar](feed/28-qual-fluxo-simplificar.png) | [Story](stories/28-qual-fluxo-simplificar.png) |
 | [13-ia-com-direcao](feed/13-ia-com-direcao.jpg) | [Story](stories/13-ia-com-direcao.png) |
 | [14-dados-confiaveis](feed/14-dados-confiaveis.jpg) | [Story](stories/14-dados-confiaveis.png) |
 | [15-pos-venda](feed/15-pos-venda.jpg) | [Story](stories/15-pos-venda.png) |
@@ -36,10 +36,10 @@
 | [14-dados-confiaveis](feed/linkedin/com-retrato/14-dados-confiaveis.jpg) | [Story](stories/14-dados-confiaveis.png) |
 | [15-pos-venda](feed/linkedin/com-retrato/15-pos-venda.jpg) | [Story](stories/15-pos-venda.png) |
 | [16-automacao-acompanhada](feed/linkedin/com-retrato/16-automacao-acompanhada.jpg) | [Story](stories/16-automacao-acompanhada.png) |
-| [01-o-que-automatizar-primeiro](feed/linkedin/sem-retrato/01-o-que-automatizar-primeiro.jpg) | Em adaptação |
-| [02-qualidade-dos-dados](feed/linkedin/sem-retrato/02-qualidade-dos-dados.jpg) | Em adaptação |
-| [03-pos-venda-com-continuidade](feed/linkedin/sem-retrato/03-pos-venda-com-continuidade.jpg) | Em adaptação |
-| [04-quem-acompanha-a-automacao](feed/linkedin/sem-retrato/04-quem-acompanha-a-automacao.jpg) | Em adaptação |
+| [01-o-que-automatizar-primeiro](feed/linkedin/sem-retrato/01-o-que-automatizar-primeiro.jpg) | [Story](stories/L01-o-que-automatizar-primeiro.png) |
+| [02-qualidade-dos-dados](feed/linkedin/sem-retrato/02-qualidade-dos-dados.jpg) | [Story](stories/L02-qualidade-dos-dados.png) |
+| [03-pos-venda-com-continuidade](feed/linkedin/sem-retrato/03-pos-venda-com-continuidade.jpg) | [Story](stories/L03-pos-venda-com-continuidade.png) |
+| [04-quem-acompanha-a-automacao](feed/linkedin/sem-retrato/04-quem-acompanha-a-automacao.jpg) | [Story](stories/L04-quem-acompanha-a-automacao.png) |
 | [01-funil-de-vendas](feed/crm/01-funil-de-vendas.png) | [Story](stories/crm/01-funil-de-vendas.png) |
 | [02-whatsapp-integrado](feed/crm/02-whatsapp-integrado.png) | [Story](stories/crm/02-whatsapp-integrado.png) |
 | [03-fluxos-e-automacoes](feed/crm/03-fluxos-e-automacoes.png) | [Story](stories/crm/03-fluxos-e-automacoes.png) |

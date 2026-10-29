@@ -1,8 +1,8 @@
 # Belcam Solutions — Stories
 
-**31 adaptações de feed + 6 dicas anteriores.**
+**38 adaptações de feed + 6 dicas anteriores.**
 
-25 de 32 adaptações disponíveis.
+Todas as artes de feed têm uma versão correspondente para Stories.
 
 [Voltar ao acervo](../README.md) · [Abrir feed](../feed/README.md)
 
@@ -18,7 +18,9 @@
 | [![16 automacao acompanhada](16-automacao-acompanhada.png)](16-automacao-acompanhada.png)<br>16 automacao acompanhada | [![17 sua ia entende audio](17-sua-ia-entende-audio.png)](17-sua-ia-entende-audio.png)<br>17 sua ia entende audio | [![18 quando chamar uma pessoa](18-quando-chamar-uma-pessoa.png)](18-quando-chamar-uma-pessoa.png)<br>18 quando chamar uma pessoa |
 | [![19 leads mais certos](19-leads-mais-certos.png)](19-leads-mais-certos.png)<br>19 leads mais certos | [![20 agenda com buracos](20-agenda-com-buracos.png)](20-agenda-com-buracos.png)<br>20 agenda com buracos | [![21 vendeu entrou no caixa](21-vendeu-entrou-no-caixa.png)](21-vendeu-entrou-no-caixa.png)<br>21 vendeu entrou no caixa |
 | [![22 cliente repete tudo](22-cliente-repete-tudo.png)](22-cliente-repete-tudo.png)<br>22 cliente repete tudo | [![23 formulario ajuda ou espanta](23-formulario-ajuda-ou-espanta.png)](23-formulario-ajuda-ou-espanta.png)<br>23 formulario ajuda ou espanta | [![24 black friday seu fluxo aguenta](24-black-friday-seu-fluxo-aguenta.png)](24-black-friday-seu-fluxo-aguenta.png)<br>24 black friday seu fluxo aguenta |
-| [![25 toda duvida comeca do zero](25-toda-duvida-comeca-do-zero.png)](25-toda-duvida-comeca-do-zero.png)<br>25 toda duvida comeca do zero |  |  |
+| [![25 toda duvida comeca do zero](25-toda-duvida-comeca-do-zero.png)](25-toda-duvida-comeca-do-zero.png)<br>25 toda duvida comeca do zero | [![26 onde o cliente desiste](26-onde-o-cliente-desiste.png)](26-onde-o-cliente-desiste.png)<br>26 onde o cliente desiste | [![27 informacao antes do problema](27-informacao-antes-do-problema.png)](27-informacao-antes-do-problema.png)<br>27 informacao antes do problema |
+| [![28 qual fluxo simplificar](28-qual-fluxo-simplificar.png)](28-qual-fluxo-simplificar.png)<br>28 qual fluxo simplificar | [![L01 o que automatizar primeiro](L01-o-que-automatizar-primeiro.png)](L01-o-que-automatizar-primeiro.png)<br>L01 o que automatizar primeiro | [![L02 qualidade dos dados](L02-qualidade-dos-dados.png)](L02-qualidade-dos-dados.png)<br>L02 qualidade dos dados |
+| [![L03 pos venda com continuidade](L03-pos-venda-com-continuidade.png)](L03-pos-venda-com-continuidade.png)<br>L03 pos venda com continuidade | [![L04 quem acompanha a automacao](L04-quem-acompanha-a-automacao.png)](L04-quem-acompanha-a-automacao.png)<br>L04 quem acompanha a automacao |  |
 
 ## CRM — Área comercial
 
