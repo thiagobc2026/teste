@@ -224,6 +224,54 @@
     "mode": "RGB"
   },
   {
+    "file": "feed/crm/01-funil-de-vendas.png",
+    "bytes": 2011070,
+    "sha256": "e17547de143606335a3ed8e7f11391f23adf22704aae37fce476021e40b8b809",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/crm/02-whatsapp-integrado.png",
+    "bytes": 2217075,
+    "sha256": "426086d2a06aa4cc02a873b92c25973c7c73a0e49b16383393a1f1756a38e1b8",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/crm/03-fluxos-e-automacoes.png",
+    "bytes": 1929801,
+    "sha256": "58b6fa926cd1a19eeb8133b09da888cdc63c396228aa07327143f0832b303ec0",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/crm/04-follow-ups-e-agenda.png",
+    "bytes": 2168104,
+    "sha256": "d6f3ef13eea65f3a207c1f3af8a54664f49d1de789afb918fefa263559767b18",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/crm/05-indicadores-e-metas.png",
+    "bytes": 2126963,
+    "sha256": "ea079a4a4d062ec799d833274283b353a204d26bd84441b9e9a332b01511dc1a",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/crm/06-resumos-com-ia.png",
+    "bytes": 2089716,
+    "sha256": "baa88e54f72124ff09abef715d61a5dd5c89c5de23b6a32d7615469102b6844c",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
     "file": "feed/linkedin/com-retrato/13-ia-com-direcao.jpg",
     "bytes": 318995,
     "sha256": "1859484022aac55e42fe37fef3a47dbf2a9de49accbbf025585b8c47a88901dd",
@@ -347,6 +395,142 @@
     "file": "stories/08-a-proposta-nao-e-o-ponto-final.png",
     "bytes": 2329638,
     "sha256": "b3b5e8db899ecc903ea0edca14f8222c740cc919a454c95df5e2b098d0e9696d",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/09-copiar-colar-repetir-ate-quando.png",
+    "bytes": 2146851,
+    "sha256": "a4aa3be3b6c97db3355b2c0193d23a192374ed3e7cd75141c9b3f03365da3df5",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/10-vendas-sem-ponto-cego.png",
+    "bytes": 2231415,
+    "sha256": "a89eff02dae0d8fee5a603dc1a6ed64b409dee4ceb7f00bb10901cbc1fc5239a",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/11-sua-empresa-nao-cabe-em-voce.png",
+    "bytes": 2098524,
+    "sha256": "5e423fe050df949d187500689a7aa762e2cdaa4256fe27a5f5f785fa25f46da5",
+    "width": 940,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/12-crescer-nao-precisa-virar-caos.png",
+    "bytes": 2123539,
+    "sha256": "9ed57de4602caa5b6bcca9d59dd59b7afd12b47efe76ef5f2ef3ee64547c7d9d",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/13-ia-com-direcao.png",
+    "bytes": 2214240,
+    "sha256": "a150162656e96559becaa48d5aef6d19fe45a4ae38fcb1c6a0a113a6baa9f1d1",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/14-dados-confiaveis.png",
+    "bytes": 1937289,
+    "sha256": "19501f3ac98e9cffd069f28c6b2c022715df318c7cc3afc8b0f21ddf03aeb093",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/15-pos-venda.png",
+    "bytes": 2001574,
+    "sha256": "54c53372733866b5cec45a950f63a203b58e8bcb58baf48426b18575f2f723ee",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/16-automacao-acompanhada.png",
+    "bytes": 2094050,
+    "sha256": "027165ca040642a2d7562af9918a08227ec56ca69f37037cf80b252082b810c8",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/17-sua-ia-entende-audio.png",
+    "bytes": 2055511,
+    "sha256": "cb8eb800cc36145de26c9e1b49c3bf9f503ef061e14667467fd9c32ddae0bb8e",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/18-quando-chamar-uma-pessoa.png",
+    "bytes": 2297372,
+    "sha256": "dccaba1a127e24f39f09162c2eea8f9bd275e3362acfc4be3125d0475e5cb62b",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/19-leads-mais-certos.png",
+    "bytes": 2139982,
+    "sha256": "f0693e407a32cc0d4116738e93bb0a7059cbd68a3795703bba70216ebb7fc3f2",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/crm/01-funil-de-vendas.png",
+    "bytes": 1922897,
+    "sha256": "d7899ba7139db6d22f8153b40727b2c178544cb57b772c546aec0b67883b38b1",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/crm/02-whatsapp-integrado.png",
+    "bytes": 2102548,
+    "sha256": "e5b2a2e2234231cd3c3ce6d98a68b0c98598cad2aa965d22b777e405c350ffb1",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/crm/03-fluxos-e-automacoes.png",
+    "bytes": 1988268,
+    "sha256": "4e7f39009e76a263c671de083997ec22e98a1ce1b016ce9780c3f1e4a594bc63",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/crm/04-follow-ups-e-agenda.png",
+    "bytes": 2005362,
+    "sha256": "7650cc755f0cefb5fe8272daf4d709546cb8507e4a4760d9789fa14af47f34d8",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/crm/05-indicadores-e-metas.png",
+    "bytes": 2095301,
+    "sha256": "6401339068bf7fc8d0480ba91e90ccee623e4b9649edb6e54e5143dded08790b",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/crm/06-resumos-com-ia.png",
+    "bytes": 2043042,
+    "sha256": "b28fbc074b56f0a25e69c8e978fd2b163f2410177f9629521bb3c29dd94e16a9",
     "width": 941,
     "height": 1672,
     "mode": "RGB"

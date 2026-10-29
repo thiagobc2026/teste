@@ -1,8 +1,8 @@
 # Belcam Solutions — Stories
 
-**8 adaptações de feed + 6 dicas anteriores.**
+**25 adaptações de feed + 6 dicas anteriores.**
 
-8 de 32 adaptações disponíveis.
+19 de 32 adaptações disponíveis.
 
 [Voltar ao acervo](../README.md) · [Abrir feed](../feed/README.md)
 
@@ -12,7 +12,20 @@
 | :---: | :---: | :---: |
 | [![01 destrave sua operacao](01-destrave-sua-operacao.png)](01-destrave-sua-operacao.png)<br>01 destrave sua operacao | [![02 automatize o repetitivo](02-automatize-o-repetitivo.png)](02-automatize-o-repetitivo.png)<br>02 automatize o repetitivo | [![03 cada etapa tem um proximo passo](03-cada-etapa-tem-um-proximo-passo.png)](03-cada-etapa-tem-um-proximo-passo.png)<br>03 cada etapa tem um proximo passo |
 | [![04 contatos nao podem se perder](04-contatos-nao-podem-se-perder.png)](04-contatos-nao-podem-se-perder.png)<br>04 contatos nao podem se perder | [![05 ferramentas diferentes um so fluxo](05-ferramentas-diferentes-um-so-fluxo.png)](05-ferramentas-diferentes-um-so-fluxo.png)<br>05 ferramentas diferentes um so fluxo | [![06 primeiro clareza depois automacao](06-primeiro-clareza-depois-automacao.png)](06-primeiro-clareza-depois-automacao.png)<br>06 primeiro clareza depois automacao |
-| [![07 demora esfria o interesse](07-demora-esfria-o-interesse.png)](07-demora-esfria-o-interesse.png)<br>07 demora esfria o interesse | [![08 a proposta nao e o ponto final](08-a-proposta-nao-e-o-ponto-final.png)](08-a-proposta-nao-e-o-ponto-final.png)<br>08 a proposta nao e o ponto final |  |
+| [![07 demora esfria o interesse](07-demora-esfria-o-interesse.png)](07-demora-esfria-o-interesse.png)<br>07 demora esfria o interesse | [![08 a proposta nao e o ponto final](08-a-proposta-nao-e-o-ponto-final.png)](08-a-proposta-nao-e-o-ponto-final.png)<br>08 a proposta nao e o ponto final | [![09 copiar colar repetir ate quando](09-copiar-colar-repetir-ate-quando.png)](09-copiar-colar-repetir-ate-quando.png)<br>09 copiar colar repetir ate quando |
+| [![10 vendas sem ponto cego](10-vendas-sem-ponto-cego.png)](10-vendas-sem-ponto-cego.png)<br>10 vendas sem ponto cego | [![11 sua empresa nao cabe em voce](11-sua-empresa-nao-cabe-em-voce.png)](11-sua-empresa-nao-cabe-em-voce.png)<br>11 sua empresa nao cabe em voce | [![12 crescer nao precisa virar caos](12-crescer-nao-precisa-virar-caos.png)](12-crescer-nao-precisa-virar-caos.png)<br>12 crescer nao precisa virar caos |
+| [![13 ia com direcao](13-ia-com-direcao.png)](13-ia-com-direcao.png)<br>13 ia com direcao | [![14 dados confiaveis](14-dados-confiaveis.png)](14-dados-confiaveis.png)<br>14 dados confiaveis | [![15 pos venda](15-pos-venda.png)](15-pos-venda.png)<br>15 pos venda |
+| [![16 automacao acompanhada](16-automacao-acompanhada.png)](16-automacao-acompanhada.png)<br>16 automacao acompanhada | [![17 sua ia entende audio](17-sua-ia-entende-audio.png)](17-sua-ia-entende-audio.png)<br>17 sua ia entende audio | [![18 quando chamar uma pessoa](18-quando-chamar-uma-pessoa.png)](18-quando-chamar-uma-pessoa.png)<br>18 quando chamar uma pessoa |
+| [![19 leads mais certos](19-leads-mais-certos.png)](19-leads-mais-certos.png)<br>19 leads mais certos |  |  |
+
+## CRM — Área comercial
+
+[Abrir campanha](crm/README.md)
+
+| | | |
+| :---: | :---: | :---: |
+| [![01 funil de vendas](crm/01-funil-de-vendas.png)](crm/01-funil-de-vendas.png)<br>01 funil de vendas | [![02 whatsapp integrado](crm/02-whatsapp-integrado.png)](crm/02-whatsapp-integrado.png)<br>02 whatsapp integrado | [![03 fluxos e automacoes](crm/03-fluxos-e-automacoes.png)](crm/03-fluxos-e-automacoes.png)<br>03 fluxos e automacoes |
+| [![04 follow ups e agenda](crm/04-follow-ups-e-agenda.png)](crm/04-follow-ups-e-agenda.png)<br>04 follow ups e agenda | [![05 indicadores e metas](crm/05-indicadores-e-metas.png)](crm/05-indicadores-e-metas.png)<br>05 indicadores e metas | [![06 resumos com ia](crm/06-resumos-com-ia.png)](crm/06-resumos-com-ia.png)<br>06 resumos com ia |
 
 ## Dicas anteriores
 
