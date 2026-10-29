@@ -1,8 +1,8 @@
 # Belcam Solutions — Stories
 
-**25 adaptações de feed + 6 dicas anteriores.**
+**31 adaptações de feed + 6 dicas anteriores.**
 
-19 de 32 adaptações disponíveis.
+25 de 32 adaptações disponíveis.
 
 [Voltar ao acervo](../README.md) · [Abrir feed](../feed/README.md)
 
@@ -16,7 +16,9 @@
 | [![10 vendas sem ponto cego](10-vendas-sem-ponto-cego.png)](10-vendas-sem-ponto-cego.png)<br>10 vendas sem ponto cego | [![11 sua empresa nao cabe em voce](11-sua-empresa-nao-cabe-em-voce.png)](11-sua-empresa-nao-cabe-em-voce.png)<br>11 sua empresa nao cabe em voce | [![12 crescer nao precisa virar caos](12-crescer-nao-precisa-virar-caos.png)](12-crescer-nao-precisa-virar-caos.png)<br>12 crescer nao precisa virar caos |
 | [![13 ia com direcao](13-ia-com-direcao.png)](13-ia-com-direcao.png)<br>13 ia com direcao | [![14 dados confiaveis](14-dados-confiaveis.png)](14-dados-confiaveis.png)<br>14 dados confiaveis | [![15 pos venda](15-pos-venda.png)](15-pos-venda.png)<br>15 pos venda |
 | [![16 automacao acompanhada](16-automacao-acompanhada.png)](16-automacao-acompanhada.png)<br>16 automacao acompanhada | [![17 sua ia entende audio](17-sua-ia-entende-audio.png)](17-sua-ia-entende-audio.png)<br>17 sua ia entende audio | [![18 quando chamar uma pessoa](18-quando-chamar-uma-pessoa.png)](18-quando-chamar-uma-pessoa.png)<br>18 quando chamar uma pessoa |
-| [![19 leads mais certos](19-leads-mais-certos.png)](19-leads-mais-certos.png)<br>19 leads mais certos |  |  |
+| [![19 leads mais certos](19-leads-mais-certos.png)](19-leads-mais-certos.png)<br>19 leads mais certos | [![20 agenda com buracos](20-agenda-com-buracos.png)](20-agenda-com-buracos.png)<br>20 agenda com buracos | [![21 vendeu entrou no caixa](21-vendeu-entrou-no-caixa.png)](21-vendeu-entrou-no-caixa.png)<br>21 vendeu entrou no caixa |
+| [![22 cliente repete tudo](22-cliente-repete-tudo.png)](22-cliente-repete-tudo.png)<br>22 cliente repete tudo | [![23 formulario ajuda ou espanta](23-formulario-ajuda-ou-espanta.png)](23-formulario-ajuda-ou-espanta.png)<br>23 formulario ajuda ou espanta | [![24 black friday seu fluxo aguenta](24-black-friday-seu-fluxo-aguenta.png)](24-black-friday-seu-fluxo-aguenta.png)<br>24 black friday seu fluxo aguenta |
+| [![25 toda duvida comeca do zero](25-toda-duvida-comeca-do-zero.png)](25-toda-duvida-comeca-do-zero.png)<br>25 toda duvida comeca do zero |  |  |
 
 ## CRM — Área comercial
 

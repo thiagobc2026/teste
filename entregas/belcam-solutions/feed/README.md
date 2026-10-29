@@ -46,3 +46,8 @@ Oito arquivos horizontais: quatro com retrato e quatro revisados sem retrato. As
 - [instagram-linkedin/legendas-instagram.md](textos/instagram-linkedin/legendas-instagram.md)
 - [instagram-linkedin/legendas-linkedin.md](textos/instagram-linkedin/legendas-linkedin.md)
 - [linkedin-sem-retrato/legendas-linkedin.md](textos/linkedin-sem-retrato/legendas-linkedin.md)
+
+## Carrosséis do CRM
+
+[Abrir três carrosséis, páginas e legendas](carrosseis/README.md)
+

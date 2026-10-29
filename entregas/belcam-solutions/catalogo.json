@@ -224,6 +224,46 @@
     "mode": "RGB"
   },
   {
+    "file": "feed/carrosseis/01-funil-com-proximo-passo/01.png",
+    "bytes": 2111222,
+    "sha256": "2d6fe6ccc7b01c3511b026a4b0c47ab54a1bfc286ae4aed077e47d06bad3a7a0",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/01-funil-com-proximo-passo/02.png",
+    "bytes": 2085522,
+    "sha256": "88cdf8edb7513362c8bec285407cc1b3a2f2ebd7d2e33c0db10802f6c3591e24",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/01-funil-com-proximo-passo/03.png",
+    "bytes": 2429154,
+    "sha256": "6be65a16023c3c2e015b151e8d52e3ab705d2d781773b75139e588c8660d7f6d",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/01-funil-com-proximo-passo/04.png",
+    "bytes": 2051160,
+    "sha256": "c3c0da9875ceb2760cff1b208b15367398ece6b5d4f82918f2fb9e3597ece6ee",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
+    "file": "feed/carrosseis/01-funil-com-proximo-passo/05.png",
+    "bytes": 2153775,
+    "sha256": "e2d6e71700f98b34e270be68b7cff1b58dd41de376e56064cbf0e700faaaaa48",
+    "width": 1122,
+    "height": 1402,
+    "mode": "RGB"
+  },
+  {
     "file": "feed/crm/01-funil-de-vendas.png",
     "bytes": 2011070,
     "sha256": "e17547de143606335a3ed8e7f11391f23adf22704aae37fce476021e40b8b809",
@@ -483,6 +523,54 @@
     "file": "stories/19-leads-mais-certos.png",
     "bytes": 2139982,
     "sha256": "f0693e407a32cc0d4116738e93bb0a7059cbd68a3795703bba70216ebb7fc3f2",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/20-agenda-com-buracos.png",
+    "bytes": 2274703,
+    "sha256": "1b4e660b2a2aa89fa3e797bd4efad7da24e9261feb9b791a8d61fe313b3a46a1",
+    "width": 940,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/21-vendeu-entrou-no-caixa.png",
+    "bytes": 1966695,
+    "sha256": "51c46c04929e2da00f321b248687fa391cb8d5949c270c81abf2b72949b4d3fe",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/22-cliente-repete-tudo.png",
+    "bytes": 2091626,
+    "sha256": "181ee46e844874c71ebf15d087a9817ad4ddb6933e76efd82a83778a7f978fab",
+    "width": 940,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/23-formulario-ajuda-ou-espanta.png",
+    "bytes": 2114051,
+    "sha256": "8afda0231d0bcaf0d5a56edcee3d86eb1d46f1040d8598c11c56bc85b340044c",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/24-black-friday-seu-fluxo-aguenta.png",
+    "bytes": 2134328,
+    "sha256": "9c91dad184adc5dc0f4565d28d0fb2b3a4766d584fab942c908ac53cd62b5e4c",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB"
+  },
+  {
+    "file": "stories/25-toda-duvida-comeca-do-zero.png",
+    "bytes": 2096039,
+    "sha256": "c984c70ae2dcca50672f68e2527a0063ae0b5220bdd5f6f027c8f5267fb09f8f",
     "width": 941,
     "height": 1672,
     "mode": "RGB"

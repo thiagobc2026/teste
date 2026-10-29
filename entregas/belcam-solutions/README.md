@@ -1,8 +1,8 @@
 # Belcam Solutions — Acervo completo
 
-**34 artes de feed · 31 Stories estáticos disponíveis · 8 variações de LinkedIn**
+**34 artes de feed · 37 Stories estáticos disponíveis · 8 variações de LinkedIn**
 
-19 de 32 adaptações disponíveis.
+25 de 32 adaptações disponíveis.
 
 - [Feed: artes e textos](feed/README.md)
 - [Stories: versões verticais, dicas e vídeos](stories/README.md)
@@ -17,3 +17,7 @@ As adaptações de Stories têm composição vertical 9:16, com espaço para a i
 - [6 artes de feed](feed/crm/README.md)
 - [6 artes de Stories](stories/crm/README.md)
 - [Baixar as 12 artes do CRM](Belcam-Solutions-CRM-Feed-e-Stories.zip?raw=true)
+
+## Carrosséis
+
+[Três carrosséis do CRM, com cinco páginas cada](feed/carrosseis/README.md)

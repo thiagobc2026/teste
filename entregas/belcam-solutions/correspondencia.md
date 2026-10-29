@@ -1,6 +1,6 @@
 # Belcam Solutions — Feed e Stories
 
-19 de 32 adaptações disponíveis.
+25 de 32 adaptações disponíveis.
 
 | Arte de feed | Story correspondente |
 | --- | --- |
@@ -19,12 +19,12 @@
 | [17-sua-ia-entende-audio](feed/17-sua-ia-entende-audio.png) | [Story](stories/17-sua-ia-entende-audio.png) |
 | [18-quando-chamar-uma-pessoa](feed/18-quando-chamar-uma-pessoa.png) | [Story](stories/18-quando-chamar-uma-pessoa.png) |
 | [19-leads-mais-certos](feed/19-leads-mais-certos.png) | [Story](stories/19-leads-mais-certos.png) |
-| [20-agenda-com-buracos](feed/20-agenda-com-buracos.png) | Em adaptação |
-| [21-vendeu-entrou-no-caixa](feed/21-vendeu-entrou-no-caixa.png) | Em adaptação |
-| [22-cliente-repete-tudo](feed/22-cliente-repete-tudo.png) | Em adaptação |
-| [23-formulario-ajuda-ou-espanta](feed/23-formulario-ajuda-ou-espanta.png) | Em adaptação |
-| [24-black-friday-seu-fluxo-aguenta](feed/24-black-friday-seu-fluxo-aguenta.png) | Em adaptação |
-| [25-toda-duvida-comeca-do-zero](feed/25-toda-duvida-comeca-do-zero.png) | Em adaptação |
+| [20-agenda-com-buracos](feed/20-agenda-com-buracos.png) | [Story](stories/20-agenda-com-buracos.png) |
+| [21-vendeu-entrou-no-caixa](feed/21-vendeu-entrou-no-caixa.png) | [Story](stories/21-vendeu-entrou-no-caixa.png) |
+| [22-cliente-repete-tudo](feed/22-cliente-repete-tudo.png) | [Story](stories/22-cliente-repete-tudo.png) |
+| [23-formulario-ajuda-ou-espanta](feed/23-formulario-ajuda-ou-espanta.png) | [Story](stories/23-formulario-ajuda-ou-espanta.png) |
+| [24-black-friday-seu-fluxo-aguenta](feed/24-black-friday-seu-fluxo-aguenta.png) | [Story](stories/24-black-friday-seu-fluxo-aguenta.png) |
+| [25-toda-duvida-comeca-do-zero](feed/25-toda-duvida-comeca-do-zero.png) | [Story](stories/25-toda-duvida-comeca-do-zero.png) |
 | [26-onde-o-cliente-desiste](feed/26-onde-o-cliente-desiste.png) | Em adaptação |
 | [27-informacao-antes-do-problema](feed/27-informacao-antes-do-problema.png) | Em adaptação |
 | [28-qual-fluxo-simplificar](feed/28-qual-fluxo-simplificar.png) | Em adaptação |
